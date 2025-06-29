@@ -1,0 +1,6 @@
+{
+  "description": "A website that presents a comparative study of historical and modern towns, exploring their architecture, culture, economy, and infrastructure, and reflecting on their respective strengths and weaknesses.",
+  "prompt": "Create a website titled “Towns Through Time: A Comparative Study.”\n• The user should be able to Select two historical towns and two present-day towns.\n• Include for each town: type, history, economic activities, architecture,\nculture, and transportation (then vs. now).\n• Compare historical and modern towns in terms of purpose, lifestyle, and infrastructure.\n• Include visuals like pictures, maps, or drawings.\n• End with a reflection on what surprised me, make it up, what makes modern towns better or worse,\nand which past features we should keep.\n",
+  "requestFramePermissions": [],
+  "name": "SST SUMMER ASSIGNMENT BY MSK"
+}
